@@ -1,0 +1,11 @@
+[33mcommit b7a5ae0e5e51d1e14c9bba54482c7cead0e65617[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/dvc-data-version[m[33m, [m[1;31morigin/feat/dvc-data-version[m[33m)[m
+Author: Zoltannk <zoltannk@gmail.com>
+Date:   Wed Jun 25 22:30:17 2025 -0300
+
+    add proj first commit
+
+[33mcommit 73d83d7e6056a8cfcb6c10c3a509f36dc2aee920[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/development[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: Zoltannk <zoltannk@gmail.com>
+Date:   Wed Jun 25 22:00:06 2025 -0300
+
+    Initial commit

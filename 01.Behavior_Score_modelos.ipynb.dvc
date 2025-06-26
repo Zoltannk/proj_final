@@ -1,0 +1,5 @@
+outs:
+- md5: b7ae541c3498163bbf8778aad33a1592
+  size: 194641
+  hash: md5
+  path: 01.Behavior_Score_modelos.ipynb
