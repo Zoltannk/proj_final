@@ -1,0 +1,4 @@
+name: projFinal-env
+channels:
+  - defaults
+## prefix: C:\Users\Zoltan\.conda\envs\projFinal-env
