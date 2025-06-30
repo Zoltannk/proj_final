@@ -3,6 +3,8 @@
 # Usamos uma imagem base do Python
 FROM python:3.9
 
+# Cria um diretório de trabalho
+WORKDIR /app
 
 # Copiamos os arquivos de onde está o Dockerfile para o container
 COPY . .
